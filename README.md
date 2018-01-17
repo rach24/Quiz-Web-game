@@ -57,11 +57,11 @@ Earlier we were using travis for continuous deployment, although the app was get
 # Area Implementation Ownership
 
 Aakash Barve-
-Back end storage and software engineering.
+Back end storage, 
 Performance testing
 
 Rachita Gupta - 
-Software Engineering
+Software Engineering,
 Client-side functionality
 
 Sreetama Banerjee-
