@@ -2,7 +2,7 @@
 
 # Project Description:
 
-The quiz app will be a web game which would allow 2 players to connect to a quiz and play against each other.
+The quiz app is a web game which would allow 2 players to connect to a quiz and play against each other.
 A game consists of multiple rounds, in each round a random movie/song will be displayed and players have to guess the year in which it was released. The questions would be of the following types:
 A song/ movie poster would be displayed and the player has to guess the year in which it was release.
 A part of the song/movie would be played and the user has to guess its name
